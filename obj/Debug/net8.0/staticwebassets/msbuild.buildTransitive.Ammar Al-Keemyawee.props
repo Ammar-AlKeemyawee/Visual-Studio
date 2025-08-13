@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Ammar Al-Keemyawee.props" />
+</Project>

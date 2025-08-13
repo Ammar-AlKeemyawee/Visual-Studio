@@ -1,0 +1,30 @@
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\bin\Debug\net8.0\appsettings.Development.json
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\bin\Debug\net8.0\appsettings.json
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\bin\Debug\net8.0\Ammar Al-Keemyawee.staticwebassets.runtime.json
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\bin\Debug\net8.0\Ammar Al-Keemyawee.exe
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\bin\Debug\net8.0\Ammar Al-Keemyawee.deps.json
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\bin\Debug\net8.0\Ammar Al-Keemyawee.runtimeconfig.json
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\bin\Debug\net8.0\Ammar Al-Keemyawee.dll
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\bin\Debug\net8.0\Ammar Al-Keemyawee.pdb
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\obj\Debug\net8.0\Ammar Al-Keemyawee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\obj\Debug\net8.0\Ammar Al-Keemyawee.AssemblyInfoInputs.cache
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\obj\Debug\net8.0\Ammar Al-Keemyawee.AssemblyInfo.cs
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\obj\Debug\net8.0\Ammar Al-Keemyawee.csproj.CoreCompileInputs.cache
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\obj\Debug\net8.0\Ammar Al-Keemyawee.MvcApplicationPartsAssemblyInfo.cache
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\obj\Debug\net8.0\Ammar Al-Keemyawee.RazorAssemblyInfo.cache
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\obj\Debug\net8.0\Ammar Al-Keemyawee.RazorAssemblyInfo.cs
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\obj\Debug\net8.0\staticwebassets.build.json
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\obj\Debug\net8.0\staticwebassets.development.json
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\obj\Debug\net8.0\staticwebassets\msbuild.Ammar Al-Keemyawee.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\obj\Debug\net8.0\staticwebassets\msbuild.build.Ammar Al-Keemyawee.props
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ammar Al-Keemyawee.props
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ammar Al-Keemyawee.props
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\obj\Debug\net8.0\scopedcss\bundle\Ammar Al-Keemyawee.styles.css
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\obj\Debug\net8.0\scopedcss\projectbundle\Ammar Al-Keemyawee.bundle.scp.css
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\obj\Debug\net8.0\Ammar Al-Keemyawee.dll
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\obj\Debug\net8.0\refint\Ammar Al-Keemyawee.dll
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\obj\Debug\net8.0\Ammar Al-Keemyawee.pdb
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\obj\Debug\net8.0\Ammar Al-Keemyawee.genruntimeconfig.cache
+C:\Visual Studio AOL\1\Ammar Al-Keemyawee\obj\Debug\net8.0\ref\Ammar Al-Keemyawee.dll
